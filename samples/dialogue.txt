@@ -1,0 +1,11 @@
++++
+model_id = "gemini-3.8-flash-lite-tts"
+style = "親しみやすく、明るい感じで、少しだけ元気に"
+[speakers]
+tutor2 = "ja-jp-tutor-2"
+tutor3 = "ja-jp-tutor-3"
++++
+tutor2: こんにちは、アヤさん。今日はいい天気ですね。
+tutor3: そうですね。[laugh] 散歩にでも出かけたい気分です。
+tutor2: いいですね。近くの公園まで行ってみませんか。
+tutor3: 賛成です。お弁当も持っていきましょう。
