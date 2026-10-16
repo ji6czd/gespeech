@@ -16,6 +16,7 @@ dependencies = [
 [project.scripts]
 gespeech = "gespeech:main"
 gespeech-voices = "gespeech.voices:main"
+gespeech-createvoice = "gespeech.createvoice:main"
 
 [build-system]
 requires = ["uv_build>=0.13.0,<0.14.0"]
